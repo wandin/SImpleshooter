@@ -2,7 +2,7 @@
 
 ### Single Player
 > ###### Summary:
-> *It's a third person shooter game, which the objective is kill all enemies and protect the lab.*
+> *It's a third person shooter game, which the objective is to kill all enemies and protect the lab.*
 
 #### These were the features used in this project:
 
